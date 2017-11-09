@@ -1,0 +1,34 @@
+tipuri reparatii:[cod_r,nume,]
+sistem franare
+revizii
+verificari_reglaje
+transmisie
+suspensie
+directie
+evacuare
+alimentare
+aprindere
+racire motor
+distributie
+reparatii optice
+tinichigerie
+
+
+
+marca:[cod_marca, nume]
+
+model:[cod_model,nume, cod_marca]
+
+piese:[cod_piesa, nume, prod, cod_r, cod_model]
+
+
+
+adauga masini, marca, model, piese, tip reparatie
+
+afisare form cu animatie JQuery slideToggle
+
+afisare piese in functie de tip, marca, sau model
+
+la client doar afisare + shortcut pentu 10 marci 
+
+
